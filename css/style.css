@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+
+@font-face {
+   font-family: "Larsseit";
+   src: url("../fonts/Larsseit/Larsseit-Regular.woff2") format("woff2"), url("../fonts/Larsseit/Larsseit-Regular.woff") format("woff");
+   font-display: swap;
+   font-weight: 400;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: "Larsseit";
+   src: url("../fonts/Larsseit/Larsseit-Medium.woff2") format("woff2"), url("../fonts/Larsseit/Larsseit-Medium.woff") format("woff");
+   font-display: swap;
+   font-weight: 500;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: "Larsseit";
+   src: url("../fonts/Larsseit/Larsseit-Bold.woff2") format("woff2"), url("../fonts/Larsseit/Larsseit-Bold.woff") format("woff");
+   font-display: swap;
+   font-weight: 700;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: "Lato";
+   src: url("../fonts/Lato/Lato-Regular.woff2") format("woff2"), url("../fonts/Lato/Lato-Regular.woff") format("woff");
+   font-display: swap;
+   font-weight: 400;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: "Lato";
+   src: url("../fonts/Lato/Lato-Bold.woff2") format("woff2"), url("../fonts/Lato/Lato-Bold.woff") format("woff");
+   font-display: swap;
+   font-weight: 700;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: "Lato";
+   src: url("../fonts/Lato/Lato-Black.woff2") format("woff2"), url("../fonts/Lato/Lato-Black.woff") format("woff");
+   font-display: swap;
+   font-weight: 900;
+   font-style: normal;
+}
+
+* {
+   color: blueviolet;
+}
+
+h1 {
+   color: teal;
+}
+
+.header__menu li a {
+   color: rgb(18, 58, 236);
+}
+
+span {
+   color: rgb(255, 0, 0);
+}
+
+#top1,
+#top3,
+#top5,
+#top7,
+#top9 {
+   color: black;
+}
+
+#top2,
+#top4,
+#top6,
+#top8,
+#top10 {
+   color: darkgoldenrod;
+}
+
+p {
+   color: rgb(50, 197, 37);
+}
+
+.footer__text-yellow p {
+   color: yellow;
+}
+
+.font__roboto-text {
+   font-family: "Roboto";
+}
+
+.font__roboto-text .fw__bold {
+   font-weight: 700;
+   color: rgb(223, 160, 160);
+}
+
+.font__roboto-text .fw__black {
+   font-weight: 900;
+   color: darkslategrey;
+}
+
+.font__larsseit-text {
+   font-family: "Larsseit";
+}
+
+.font__larsseit-text .fw__medium {
+   font-weight: 500;
+   color: rgb(148, 21, 21);
+}
+
+.font__larsseit-text .fw__bold {
+   font-weight: 700;
+   color: coral;
+}
+
+.font__lato-text {
+   font-family: "Lato";
+
+}
+
+.font__lato-text .fw__bold {
+   font-weight: 700;
+   color: black;
+}
+
+.font__lato-text .fw__black {
+   font-weight: 900;
+   color: blue;
+}
+
+.text {
+   color: maroon;
+}
+
+h3 {
+   color: black;
+}
